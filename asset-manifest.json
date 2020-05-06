@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/jimmys-moonshot/static/js/main.511771c0.chunk.js",
+    "main.js.map": "/jimmys-moonshot/static/js/main.511771c0.chunk.js.map",
+    "runtime-main.js": "/jimmys-moonshot/static/js/runtime-main.1866ec88.js",
+    "runtime-main.js.map": "/jimmys-moonshot/static/js/runtime-main.1866ec88.js.map",
+    "static/js/2.7c64cff7.chunk.js": "/jimmys-moonshot/static/js/2.7c64cff7.chunk.js",
+    "static/js/2.7c64cff7.chunk.js.map": "/jimmys-moonshot/static/js/2.7c64cff7.chunk.js.map",
+    "index.html": "/jimmys-moonshot/index.html",
+    "precache-manifest.801cd10cbd2e7971cee7ec5987d2df45.js": "/jimmys-moonshot/precache-manifest.801cd10cbd2e7971cee7ec5987d2df45.js",
+    "service-worker.js": "/jimmys-moonshot/service-worker.js",
+    "static/js/2.7c64cff7.chunk.js.LICENSE.txt": "/jimmys-moonshot/static/js/2.7c64cff7.chunk.js.LICENSE.txt",
+    "static/media/cart.07d5ba4a.svg": "/jimmys-moonshot/static/media/cart.07d5ba4a.svg",
+    "static/media/curve.a8a3ba3a.svg": "/jimmys-moonshot/static/media/curve.a8a3ba3a.svg",
+    "static/media/dog-1.png": "/jimmys-moonshot/static/media/dog-1.f25b4cba.png",
+    "static/media/dog-2.png": "/jimmys-moonshot/static/media/dog-2.ab7a533b.png",
+    "static/media/dog-3.png": "/jimmys-moonshot/static/media/dog-3.b6280374.png",
+    "static/media/exit.98f2a8b1.svg": "/jimmys-moonshot/static/media/exit.98f2a8b1.svg",
+    "static/media/galaxy.jpg": "/jimmys-moonshot/static/media/galaxy.0b1c6775.jpg",
+    "static/media/home.3192f86c.svg": "/jimmys-moonshot/static/media/home.3192f86c.svg",
+    "static/media/iss.jpg": "/jimmys-moonshot/static/media/iss.48932214.jpg",
+    "static/media/logo.0c7bf061.svg": "/jimmys-moonshot/static/media/logo.0c7bf061.svg",
+    "static/media/moon.jpg": "/jimmys-moonshot/static/media/moon.493bbb75.jpg",
+    "static/media/profile.ea589b57.svg": "/jimmys-moonshot/static/media/profile.ea589b57.svg",
+    "static/media/rocket.c27cc1f5.svg": "/jimmys-moonshot/static/media/rocket.c27cc1f5.svg",
+    "static/media/space.jpg": "/jimmys-moonshot/static/media/space.7dfc7923.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1866ec88.js",
+    "static/js/2.7c64cff7.chunk.js",
+    "static/js/main.511771c0.chunk.js"
+  ]
+}
